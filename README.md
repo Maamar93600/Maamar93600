@@ -1,19 +1,21 @@
+# Maamar Benhenni
+
+### Junior Computer Vision | Python | PyTorch | OpenCV
+
 Bonjour,
 
-je m'appel Maamar , actuellement en reconversion professionnelle vers la Computer Vision et le Deep Learning.
+Je suis actuellement en reconversion professionnelle vers la **Computer Vision et le Deep Learning**.
 
-Je développe mes compétences à travers des projets personnels et des
-compétitions Kaggle.
-
+Je développe mes compétences à travers des **projets personnels et des compétitions Kaggle**, principalement avec Python, PyTorch et OpenCV.
 
 ### 🛠️ Technologies
 
-Python · PyTorch · OpenCV · Deep Learning · Computer Vision
+**Python · PyTorch · OpenCV · Deep Learning · Computer Vision**
 
 ### 🚀 Projets
 
-- [OpenCV-PyTorch-Projects](https://github.com/Maamar93600/OpenCV-PyTorch-Projects)
-- [PROJET-COVID-19](https://github.com/Maamar93600/PROJET-COVID-19)
+* [OpenCV-PyTorch-Projects](https://github.com/Maamar93600/OpenCV-PyTorch-Projects)
+* [PROJET-COVID-19](https://github.com/Maamar93600/PROJET-COVID-19)
 
 ### 🔗
 
