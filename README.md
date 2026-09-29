@@ -1,16 +1,21 @@
-## Hi there 👋
+# Maamar Benhenni
 
-<!--
-**Maamar93600/Maamar93600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Computer Vision | Python | PyTorch | OpenCV
 
-Here are some ideas to get you started:
+Reconversion professionnelle vers la Computer Vision et le Deep Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je développe mes compétences à travers des projets personnels et des
+compétitions Kaggle.
+
+### 🛠️ Technologies
+
+Python · PyTorch · OpenCV · Deep Learning · Computer Vision
+
+### 🚀 Projets
+
+- [OpenCV-PyTorch-Projects](https://github.com/Maamar93600/OpenCV-PyTorch-Projects)
+- [PROJET-COVID-19](https://github.com/Maamar93600/PROJET-COVID-19)
+
+### 🔗
+
+[LinkedIn](https://www.linkedin.com/in/maamar-benhenni-3bba2311b/)
