@@ -15,9 +15,11 @@ Je développe mes compétences à travers des **projets personnels et des compé
 ### 🚀 Projets
 
 * [OpenCV-PyTorch-Projects](https://github.com/Maamar93600/OpenCV-PyTorch-Projects)
+  
    Computer Vision projects with PyTorch and OpenCV: classification,fine-tuning and semantic segmentation.
 
 * [PROJET-COVID-19](https://github.com/Maamar93600/PROJET-COVID-19)
+  
    Image classification project using OpenCV and Machine Learning.
 
 ### 🔗
