@@ -1,11 +1,10 @@
-# Maamar Benhenni
+Bonjour,
 
-### Junior Computer Vision | Python | PyTorch | OpenCV
-
-Reconversion professionnelle vers la Computer Vision et le Deep Learning.
+je m'appel Maamar , actuellement en reconversion professionnelle vers la Computer Vision et le Deep Learning.
 
 Je développe mes compétences à travers des projets personnels et des
 compétitions Kaggle.
+
 
 ### 🛠️ Technologies
 
